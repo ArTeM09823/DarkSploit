@@ -1,7 +1,7 @@
 # DarkSploit
 Welcome to DarkSploit Github!
 ### What is DarkSploit?
-This is simple exploit for ROBLOX based on c#
+This is simple exploit for ROBLOX based on C#
 You can find here a scripts for DarkSploit (scripts for Script Hub)
 
 [Join to Discord Server!](https://discord.gg/CgJvt4k)
