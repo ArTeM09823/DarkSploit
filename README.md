@@ -12,5 +12,5 @@ Welcome to DarkSploit Github!
 ____
 # Plans for Exploit
 - [ ] More scripts
-- [ ] More CMDS
+- [ ] ~~*__[ ] More CMDS __*~~ (removed)
 - [X] Optimizite Code 
