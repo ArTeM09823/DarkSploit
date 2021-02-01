@@ -1,6 +1,6 @@
 # vvml
 Welcome to vvml Github!
-- You can find here a files for works DarkSploit (scripts for Script Hub)
+- You can find here a files for works vvml (scripts for Script Hub)
 ### What is it?
 - This is simple exploit for ROBLOX based on C#
 - [Join to Discord Server!](https://discord.gg/CgJvt4k)
