@@ -7,7 +7,7 @@ Welcome to vvml Github!
 ### What api have does the exploit have?
 - KRNL
 - Oxygen API
-- EasyXploit
+- EasyXploit (will be removed soon)
 - Shadow Cheats
 ____
 # Plans for Exploit
