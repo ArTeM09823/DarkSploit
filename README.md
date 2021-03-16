@@ -1,4 +1,4 @@
 # vvml
 Welcome to vvml Github
 # Discontinued!
-I'm not work on this project (exploit) any more. Sorry
+I have not worked on this project for a long time and am not going to. Sorry
