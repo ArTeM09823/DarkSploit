@@ -11,3 +11,5 @@ I have not worked on this project for a long time and am not going to. Sorry
 
 
 p.s maybe i will develop again
+
+16 June 2021: Now this is Synapse X UI
